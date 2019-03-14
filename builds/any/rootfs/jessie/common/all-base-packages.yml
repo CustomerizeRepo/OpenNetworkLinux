@@ -78,4 +78,8 @@
 - strace
 - sysstat
 - ipmitool
+- ofdpa
+- collectd-core
 - collectd
+- python-colorama
+- python-click
