@@ -302,7 +302,7 @@ class OnlRfsBuilder(object):
 
     DEFAULTS = dict(
         DEBIAN_SUITE='wheezy',
-        DEBIAN_MIRROR='mirrors.kernel.org/debian/',
+        DEBIAN_MIRROR='archive.debian.org/debian/',
         APT_CACHE='127.0.0.1:3142/'
         )
 
